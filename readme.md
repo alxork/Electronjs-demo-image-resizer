@@ -2,6 +2,7 @@
 Image resizer. Just clone the project, npm i, and then to run the process:
 npm start OR npx electronmon .
 This last will watch for life changes in case you want to modify the app.
+Go the 1st branch to have a look at the files.
 
 ## Just a first approach
 The main learning of this demo is to discover the core functionalities of electronjs but as a matter of fact it really helped me refresh a lot of concepts and core modules of nodejs, like the file system.
